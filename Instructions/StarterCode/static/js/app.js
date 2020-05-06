@@ -39,6 +39,7 @@ var data1 = [trace2];
 //layout
 var layout = {
   showlegend: false,};
+  
 var layout1 = {
   showlegend: false,
   height: 600,
